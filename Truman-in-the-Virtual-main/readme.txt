@@ -9,6 +9,10 @@ Professor:
 
 ---------------------------------------------
 
+
+changes i tried implementing:
+I figured out that it is possible to go frome one skybox to another, i am not sure how to transition smoothly tho. Will figure it out. i also tried creating a little arrow in the bottom for navigation. 
+
 📌 Objective
 The purpose of Truman in the Virtual is to create an immersive 3D experience where users can explore a skybox environment directly in their browser. The project serves as an early prototype that demonstrates how virtual environments can be built with modern web technologies while maintaining accessibility and interactivity.
 
